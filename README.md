@@ -1,6 +1,6 @@
 Hello! I'm a Python full-stack developer, passionate about creating efficient and innovative web applications. I am constantly improving my skills and learning new technologies to build high-quality, modern applications.
 
-Fullstack Developer
+**Fullstack Developer**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
