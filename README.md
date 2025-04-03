@@ -1,4 +1,6 @@
-Hello! I'm a Python full-stack developer, passionate about creating efficient and innovative web applications. I am constantly improving my skills and learning new technologies to build high-quality, modern applications.
+**Hello everyone!**
+I'm a Python full-stack developer, passionate about creating efficient and innovative web applications.
+I am constantly improving my skills and learning new technologies to build high-quality, modern applications.
 
 **Fullstack Developer**
 
