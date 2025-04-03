@@ -8,7 +8,7 @@ I am constantly improving my skills and learning new technologies to build high-
 
 <img src="https://img.shields.io/badge/Next.JS-%23ff9900?style=for-the-badge&logo=next.js&logoColor=blue" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Cloudflare-%231155cc?style=for-the-badge&logo=cloudflare&logoColor=yelow /> <img src="https://img.shields.io/badge/Amazon%20EC2-%23ff9900?style=for-the-badge&logo=amazon&logoColor=blue" />
+<img src="https://img.shields.io/badge/Cloudflare-%231155cc?style=for-the-badge&logo=cloudflare&logoColor=yelow" /> <img src="https://img.shields.io/badge/Amazon%20EC2-%23ff9900?style=for-the-badge&logo=amazon&logoColor=blue" />
 
 <hr>
 
