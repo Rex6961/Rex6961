@@ -19,4 +19,4 @@ I am constantly improving my skills and learning new technologies to build high-
 
 ### ✨ Additional Information:
 
-Actively learning and working with Python, Scrapy, Django, PostgreSQL, Gemini API, and REST APIs. I strive to build complex and interesting web applications. Experienced in teamwork and always open to acquiring new knowledge. Seeking a full-stack developer position where I can apply my skills and grow professionally.
+Actively learning and working with Python, Scrapy, Django, PostgreSQL, Gemini API, and REST APIs. I strive to build complex and interesting web applications. Experienced in teamwork and always open to acquiring new knowledge.
